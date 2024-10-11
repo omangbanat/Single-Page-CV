@@ -61,4 +61,4 @@
 </body>
 </html>
 
-https://github.com/omangbanat/Single-Page-CV/issues/1
+https://github.com/users/omangbanat/projects/2
